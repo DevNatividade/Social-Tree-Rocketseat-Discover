@@ -31,8 +31,8 @@
 
 Feito com ❤️ por DevN 👋🏽 Entre em contato!
 
-<img src="https://img.shields.io/badge/github-DevN-blue
-">	<img src="https://img.shields.io/badge/Insta-%40vagner__natividade-purple"> <img src="https://img.shields.io/badge/git-DevNatividade-lightpurple"> 
+<img src="https://img.shields.io/badge/github-DevN-blue">	<img src="https://img.shields.io/badge/Insta-%40vagner__natividade-purple"> 
+<img src="https://img.shields.io/badge/git-DevNatividade-lightpurple"> 
 
 The MIT License (MIT)
 
